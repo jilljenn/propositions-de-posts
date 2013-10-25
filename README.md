@@ -8,3 +8,7 @@ Une fois qu'on est ok sur un sujet assez détaillé, on peut prendre la liberté
 
 ##### ProTip™
 _Pensez à vous assigner les issues et propositions de posts que vous voulez faire (si vous êtes l'auteur du ticket, sinon demandez d'abord :wink: .)_
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/putaindecode/propositions-de-posts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
